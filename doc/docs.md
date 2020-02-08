@@ -1520,6 +1520,7 @@ Or just run it more like a traditional bash script:
 V has 23 keywords:
 
 ```v
+as          // added at 2/8/2020 for type casting
 break
 const
 continue
